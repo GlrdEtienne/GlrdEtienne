@@ -79,15 +79,10 @@ hobbies :
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original-wordmark.svg" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="45" height="45"/>
-
-
-
-
-
 </p>
 
 
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GlrdEtienne)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
