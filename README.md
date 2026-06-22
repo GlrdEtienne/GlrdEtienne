@@ -10,7 +10,7 @@ education :
     "Bachelor's in Computer Science
   ]
 
-technical_Background :
+technical_background :
   [
     "Intern - Mocaplab (https://www.mocaplab.com/fr/)",
     "Intern - Virtualisurg (https://virtualisurg.com/fr/home-page/)"
