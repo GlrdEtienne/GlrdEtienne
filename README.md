@@ -1,33 +1,49 @@
 ## About me 
 
 ```yaml
-my name is Etienne Gaillard located in Paris, France.
-I'm looking for a position in Data / IA consulting or python / C# dev
+full_name: Etienne Gaillard
+location : Paris, France
+searching_for :  Data / IA consulting or python / C# dev
 
-I have a master's degree in computer science specialised in immersives technologies and IA
-I have done 2 internships :
-- one at "Mocaplab" (https://www.mocaplab.com/fr/)
-- one at "Virtualisurg" (https://virtualisurg.com/fr/home-page/)
+education :
+  [
+    "Master's in Computer Science specialised in immersives technologies and IA"
+    "Bachelor's in Computer Science
+  ]
 
-Fields of interests :
-- Data Science
-- Data engineering
-- IA
-- Machine learning / deep learning
-- AR / VR / XR
-- Web Dev
+technical_Background :
+  [
+    "Intern - Mocaplab (https://www.mocaplab.com/fr/)",
+    "Intern - Virtualisurg (https://virtualisurg.com/fr/home-page/)"
 
-I'm currently studying for 3 certifications :
-- AWS Certified AI Practitioner (AIF-C01)
-- AWS Solutions Architect – Associate (SAA-C03) 2026
-- Microsoft AI-900 (Azure AI Fundamentals)
+fields_of_interests :
+  [
+    "Data Science",
+    "Data engineering",
+    "IA",
+    "Machine learning / deep learning",
+    "AR / VR / XR",
+    "Web Dev"
+  ]
 
-my hobbies are :
-- Cinema
-- Music
-- Video Games
-- Sports (Football, Gym, Volleyball)
-and I'm getting into Literature
+currently_learning :
+  [
+      certifications :
+      {
+        "AWS Certified AI Practitioner (AIF-C01)",
+        "AWS Solutions Architect – Associate (SAA-C03)", 
+        "Microsoft AI-900 (Azure AI Fundamentals)"
+      }
+  ]
+
+hobbies :
+  [
+    "Cinema",
+    "Music",
+    "Video Games",
+    "Sports (Football, Gym, Volleyball)",
+    "getting into Literature"
+  ]
 ```
 
 <!--
