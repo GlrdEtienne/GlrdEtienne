@@ -7,7 +7,7 @@ searching_for :  Data / IA consulting or python / C# dev
 
 education :
   [
-    "Master's in Computer Science specialised in immersives technologies and IA"
+    "Master's in Computer Science specialised in immersives technologies and IA",
     "Bachelor's in Computer Science
   ]
 
