@@ -15,6 +15,7 @@ technical_Background :
   [
     "Intern - Mocaplab (https://www.mocaplab.com/fr/)",
     "Intern - Virtualisurg (https://virtualisurg.com/fr/home-page/)"
+  ]
 
 fields_of_interests :
   [
