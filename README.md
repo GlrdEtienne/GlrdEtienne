@@ -1,5 +1,4 @@
 ## About me 
-
 ```yaml
 full_name: Etienne Gaillard
 location : Paris, France
